@@ -1,1 +1,2 @@
 print("Hi, Shit")
+print("Say hello, shit")
